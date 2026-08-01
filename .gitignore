@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit config (if you have secrets)
+.streamlit/secrets.toml
+
+# Temp files
+*.mp4
+*.jpg
+*.png
+test_infer.py
+test_try_block.py
