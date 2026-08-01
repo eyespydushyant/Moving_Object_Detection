@@ -171,12 +171,9 @@ Moving_Object_Detection/
 
 ---
 
-## 📄 License
-
-MIT License — feel free to use for educational and research purposes.
 
 ---
 
 <div align="center">
-Built with ❤️ | Final Year Engineering Project | Computer Vision & Deep Learning
+Built with ❤️ | Computer Vision & Deep Learning
 </div>
