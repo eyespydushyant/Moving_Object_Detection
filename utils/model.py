@@ -18,7 +18,7 @@ MODEL_IDS = {
     "Grounding DINO Base": "IDEA-Research/grounding-dino-base",
 }
 
-DEFAULT_MODEL = "Grounding DINO Base"
+DEFAULT_MODEL = "Grounding DINO Tiny"
 
 # ─────────────────────────────────────────────
 # Device Detection
